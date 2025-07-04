@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "icons",
+			"path": "../../../../Downloads/51Games.github.io-main/icons"
+		},
+		{
+			"name": "templte",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "templte"
+	}
+}
